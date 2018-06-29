@@ -1,0 +1,14 @@
+{
+  "name": "devicecapabilities",
+  "version": "1.0.0",
+  "description": "Get a devices' capabilities",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
